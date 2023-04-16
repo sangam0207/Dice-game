@@ -1,0 +1,35 @@
+h1{
+    color: blueviolet;
+    font-family: cursive;
+    font-size: 5rem;
+}
+.dice{
+    color: brown;
+    font-family: cursive;
+    font-size: 2rem;
+    margin: 2px;
+    padding: 72px;
+   
+}
+.newbox{
+    display: flex;
+}
+.dice img{
+    width: 200px;
+    height:200px;
+}
+#result{
+    color: deeppink;
+    font-family: cursive;
+    font-size: 3rem;
+    font-weight: bold;
+}
+#san1{
+    width: 100px;
+    text-align: center;
+    background-color: coral;
+    color: black;
+    border: 2px solid green;
+    border-radius: 4px;
+    margin-left: 100px;
+}
